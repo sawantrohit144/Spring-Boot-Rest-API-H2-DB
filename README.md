@@ -1,0 +1,3 @@
+# Spring Boot Rest API
+
+This project is a simple REST API developed using Spring Boot, a powerful Java-based framework known for its rapid development capabilities. The API is designed to handle basic CRUD (Create, Read, Update, Delete) operations, providing a RESTful service layer suitable for integrating with frontend applications or other services. Using Spring Boot's annotations and embedded server, the API is lightweight and easily deployable, with data returned in JSON format for compatibility with modern applications. It follows REST principles for structured, scalable endpoints and includes features like input validation, error handling, and basic security, making it reliable and easy to maintain.
